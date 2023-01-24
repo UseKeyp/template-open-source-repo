@@ -20,6 +20,8 @@
 ## Contributing 💡
 
 ## Resources 🧑‍💻
+This repo is configured to use [Publish PR Packages](https://github.com/marketplace/actions/publish-pr-packages) to auto-publish packages
+for each pull request. Make sure you rename the template package name in `ci-release.yml` to your own package name.
 
 ## Sponsors ❤️
 
